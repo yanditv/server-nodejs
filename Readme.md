@@ -9,6 +9,25 @@ Este proyecto es una aplicación Node.js que utiliza Express para crear una API 
 
 ## Configuración del proyecto
 
+### Clonar el repositorio
+
+Para clonar el repositorio, ejecuta el siguiente comando:
+
+```sh
+git clone https://github.com/yanditv/server-nodejs.git
+cd server-nodejs
+```
+
+### Instalación de las dependencias
+
+### Instalación de las dependencias
+
+Para instalar las dependencias, ejecuta el siguiente comando:
+
+```sh
+npm install
+```
+
 ### Compilar el proyecto
 
 Para compilar el proyecto, ejecuta el siguiente comando:
@@ -32,6 +51,11 @@ Si necesitas recrear la aplicación, ejecuta el siguiente comando:
 ```sh
 docker-compose up -d --force-recreate
 ```
+
+### Despliegue
+
+la aplicacion estará disponible en
+http://localhost:3000
 
 ## Endpoints de la API
 
